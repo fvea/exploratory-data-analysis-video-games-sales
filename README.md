@@ -25,6 +25,7 @@ The main objective of the analysis is to answer the following questions:
 The project includes data cleaning (```data_cleaning_script.ipynb```), data analysis, and data visualizations (```EDA on Video Games Sales.ipynb```) to answer the questions on the data.
 
 ## Analysis Preview
+See ```EDA on Video Games Sales.ipynb``` for the full analysis and conclusion.
 
 |      Total Global Sales by Genre       |      Total Video Game Sales per Country      |
 |--------------------|--------------------|
