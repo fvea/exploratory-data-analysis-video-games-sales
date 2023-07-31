@@ -1,4 +1,4 @@
-# EDA-on-Video-Games-Sales-Dataset
+# Exploratory Data Analysis on Video Games Sales (1980-2016)
 
 ## Introduction
 
