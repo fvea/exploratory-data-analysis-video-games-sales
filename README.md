@@ -4,7 +4,7 @@
 
 This project is a exploratory data analysis on a video games sales dataset available in [Kaggle](https://www.kaggle.com/sidtwr/videogames-sales-dataset). The dataset includes video games sales that is scraped (on Dec., 2016) from [vgchartz](https://www.vgchartz.com/), a website that tracks the sales of physical copies of games for different console/platforms. 
 
-## Exploratory Data Analysis on Video Games Sales (1980-2016)
+## Objectives
 The main objective of the analysis is to answer the following questions:
 
 1. How the trend for published physical video games changed since 1980?
